@@ -1,7 +1,7 @@
 /*<img src="./photos/logo.jpg" style="max-width: 50px ;">*/
 .first_img img
 {
-    position: relative;
+    position:relative;
     height: 50%;
     width: 100%;
     border-radius: 0px 0px 70px 70px;
@@ -12,4 +12,17 @@
     color: blue;
     top: 22px;
     margin-left: 661px;
+}
+.fmsg
+{
+    position: absolute;
+    width: 80%;
+    height: 100px;
+    top: 989px;
+    left: 138px;
+    border-radius: 50px 0px 50px 0px;
+}
+.smsg
+{
+    position: absolute;
 }

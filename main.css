@@ -1,0 +1,15 @@
+/*<img src="./photos/logo.jpg" style="max-width: 50px ;">*/
+.first_img img
+{
+    position: relative;
+    height: 50%;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+    z-index: -1;
+}
+.logo {
+    position: absolute;
+    color: blue;
+    top: 22px;
+    margin-left: 661px;
+}

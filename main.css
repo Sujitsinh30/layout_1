@@ -8,7 +8,7 @@
 .logo {
     z-index:1;
     position: relative;
-    color: blue;
+    color: #0A5190;
     top: -1093px;
     left: 618px;
     font-size: 18px;
@@ -53,4 +53,37 @@ left: 122px;
 .about_sec p:nth-child(2)
 {
     position: relative;
+    top: -212px;
 }
+.about_sec p:nth-child(3)
+{
+    position: relative;
+    top: -222px;
+    width: 523px;
+}
+hr {
+    position: relative;
+    width: 540px;
+    left: -286px;
+    top: -219px;
+}
+.bottom_left
+{
+    position: relative;
+    top: -223px;
+    width: 660px;
+}
+.bottom_left p:nth-child(1)
+{
+    position: relative;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    color: #0A5190;
+}
+.bottom_left p:nth-child(2)
+{
+    position: relative;
+    left: 500px;
+}
+

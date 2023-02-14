@@ -134,6 +134,23 @@ div.d-flex img:nth-child(1)
     bottom: 930px;
     left: 944px;
     width: 432px;
+    height: 21rem;
     background-color: cyan;
     color: white;
+}
+.qr-code
+{
+    border: 12px solid #487ccf;
+    border-radius: 20px 0px;
+    position: relative;
+    box-shadow: #487ccf;
+    margin-left: -4rem;
+    width: 35%;
+    background-color: white;
+    position: relative;
+    bottom: 76px;
+}
+.qr-code img
+{
+    max-width: 8rem;
 }

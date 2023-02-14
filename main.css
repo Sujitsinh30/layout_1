@@ -102,6 +102,38 @@ div.d-flex img:nth-child(1)
     top: -19rem;
     left: 6rem;
 }
-.contact_us img
+.bottom_right
 {
+    position: relative;
+    width: 25rem;
+    bottom: 930px;
+    right: -70%;
+}
+.bt-service
+{
+    position: relative;
+    border-radius: 40px 0px 0px 0px;
+    color: white;
+    background-color: #487ccf;
+    width: 30rem;
+    height: 5rem;
+    bottom: 930px;
+    left: 56rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.bt-service p:nth-child(1)
+{
+    font-size: 179%;
+    font-weight: 900;
+}
+.r-bt-con
+{  
+    position: relative;
+    bottom: 930px;
+    left: 944px;
+    width: 432px;
+    background-color: cyan;
+    color: white;
 }

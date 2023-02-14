@@ -6,6 +6,7 @@
     border-radius: 0px 0px 70px 70px;
 }
 .logo {
+    width: 127px;
     z-index:1;
     position: relative;
     color: #0A5190;
@@ -61,17 +62,11 @@ left: 122px;
     top: -222px;
     width: 523px;
 }
-hr {
-    position: relative;
-    width: 540px;
-    left: -286px;
-    top: -219px;
-}
 .bottom_left
 {
     position: relative;
-    top: -223px;
-    width: 660px;
+    top: -232px;
+    width: 664px;
 }
 .bottom_left p:nth-child(1)
 {
@@ -80,10 +75,33 @@ hr {
     display: flex;
     justify-content: flex-end;
     color: #0A5190;
+    font-size: 22px;
 }
 .bottom_left p:nth-child(2)
 {
     position: relative;
-    left: 500px;
+    left: 558px;
+    top: -27px;
+    color: #0A5190;
+    font-size: 22px;
 }
-
+div.d-flex img:nth-child(1)
+{
+    position: relative;
+    width: 75px;
+}
+.hline
+{
+    position: relative;
+    top: -279px;
+}
+.contact_us
+{
+    color: #0A5190;
+    position: relative;
+    top: -19rem;
+    left: 6rem;
+}
+.contact_us img
+{
+}
